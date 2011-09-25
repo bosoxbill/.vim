@@ -5,6 +5,8 @@ These are my opinionated .vim settings.  I clone it to my home directory, then:
     $ ln -s ~/.vim/.vimrc ~/.vimrc
     $ ln -s ~/.vim/.gvimrc ~/.gvimrc
 
+NOTE: If you don't clone this to ~/.vim, you'll need to symlink ~/.vim to wherever you have cloned it to
+
 ## Uses submodules to manage plugins
 
     $ cd ~/.vim
