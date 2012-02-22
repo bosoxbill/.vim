@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/Users/bdesmarais/work/proventys/errbit/config/deploy'
+let g:netrw_dirhist_2='/Users/bdesmarais/work/proventys/prov-content-nccn/content/guidelines/colon'
+let g:netrw_dirhist_3='/Users/bdesmarais/work/new_projects/boardgame_eventer/spec/controllers'
