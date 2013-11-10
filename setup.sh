@@ -9,7 +9,7 @@ for file in ${link_filenames[*]}; do
 
 done
 
-ln -sf "${my_dir}" "$HOME/.vim"
+ln -sf "${my_dir}/" "$HOME/.vim"
 
 git submodule init
 git submodule update
