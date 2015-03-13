@@ -1,10 +1,9 @@
 # .vim
 
-These are my opinionated .vim settings.  I clone it to my home directory, then:
+These are my opinionated .vim settings.  I clone it somewhere - [clonedir]
 
-    $ ln -s [clone_dir] ~/.vim
-    $ ln -s [clone_dir].vimrc ~/.vimrc
-    $ ln -s [clone_dir].gvimrc ~/.gvimrc
+    $ cd [clonedir]
+    $ ./setup.sh
 
 ## Uses submodules to manage plugins
 
