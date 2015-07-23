@@ -21,3 +21,6 @@ imap <D-s> <ESC>:w<CR>
 " GUI settings
 set guioptions+=TlRLrb
 set guioptions-=TlRLrb
+
+set lines=50
+set columns=90
